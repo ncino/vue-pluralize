@@ -34,7 +34,7 @@ Simply set `pluralize` as the filtering function and you're good to go. At least
 <span>users</span>
 ```
 
-## this.$moment
+## this.$pluralize
 
 `vue-pluralize` attaches the Pluralize instance to your Vue app as `this.$pluralize`.
 
