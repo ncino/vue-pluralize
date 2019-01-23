@@ -1,6 +1,6 @@
 # vue-pluralize
 [![npm version](https://badge.fury.io/js/vue-pluralize.svg)](https://badge.fury.io/js/vue-pluralize)
-[![Build Status](https://travis-ci.org/brockpetrie/vue-pluralize.svg?branch=master)](https://travis-ci.org/SimpleNexus/vue-pluralize)
+[![Build Status](https://travis-ci.org/SimpleNexus/vue-pluralize.svg?branch=master)](https://travis-ci.org/SimpleNexus/vue-pluralize)
 [![Monthly Downloads](https://img.shields.io/npm/dm/vue-pluralize.svg)](https://www.npmjs.com/package/vue-pluralize)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
