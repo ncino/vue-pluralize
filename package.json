@@ -1,6 +1,6 @@
 {
   "name": "vue-pluralize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Handy Pluralize filters for your Vue project",
   "main": "dist/vue-pluralize.js",
   "scripts": {
