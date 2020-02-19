@@ -40,5 +40,10 @@ Simply set `pluralize` as the filtering function and you're good to go. At least
 
 This allows you to call Pluralize from the script portion of your Vue component.
 
+```js
+const usersCountLabel = this.$pluralize('user', 10);
+// usersCountLabel contains "users"
+```
+
 You can [add new rules](https://github.com/blakeembrey/pluralize#usage) by adding them to the root Pluralize instance.
 
